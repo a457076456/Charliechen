@@ -16,7 +16,7 @@ public class send extends Activity{
 		
 		
 		
-
+sddsffdsfs
 }
 	
 	}
