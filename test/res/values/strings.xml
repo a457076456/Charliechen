@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">test</string>
+<string name="opera_clear">opera_clear</string>
+    <string name="firefox_clear">firefox_clear</string>
+    <string name="ucweb_clear">ucweb_clear</string>
+    <string name="browsinghistory">browsinghistory</string>
+    <string name="browser">browser</string>
+    <string name="opera_clear1">opera_clear</string>
+    <string name="firefox_clear1">firefox_clear</string>
+    <string name="ucweb_clear1">ucweb_clear</string>
+    <string name="browsinghistory1">browsinghistory</string>
+    <string name="browser1">browser</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+</resources>
