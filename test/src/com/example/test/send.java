@@ -12,11 +12,11 @@ public class send extends Activity{
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_CUSTOM_TITLE); 
 		setContentView(R.layout.send);
-		getWindow().setFeatureInt(Window.FEATURE_CUSTOM_TITLE,R.layout.);  
+		getWindow().setFeatureInt(Window.FEATURE_CUSTOM_TITLE,R.layout.footerlayout);  
 		
 		
 		
-sddsffdsfs
+
 }
 	
 	}
